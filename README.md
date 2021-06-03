@@ -1,2 +1,4 @@
 # demo-repo
-Just testing GitHub
+Just testing *GitHub*
+
+This must be `code`
